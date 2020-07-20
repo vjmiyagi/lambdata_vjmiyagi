@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 
 setuptools.setup(
-    name="lambdata_vjmiyagi", # 
+    name="lambdata_vjmiyagi",
     version="0.0.4",
     author="VJ Miyagi",
     author_email="velmamiyagi@gmail.com",
